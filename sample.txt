@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 second Commit---
@@ -5,3 +6,5 @@ second Commit---
 3rd Commit
 
 4th Commit--
+=======
+>>>>>>> parent of 6e3ea0d (second commit)
